@@ -6,8 +6,9 @@ actions:
   - text: 进入
     link: /conts/intro
     type: primary
-
-  # - text: Introduction
+---
+# 你好，世界
+  <!-- # - text: Introduction
   #   link: https://vuejs.press/guide/introduction.html
   #   type: secondary
 
@@ -29,5 +30,4 @@ actions:
 # ---
 # This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
 
-# [default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
----
+# [default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page -->
